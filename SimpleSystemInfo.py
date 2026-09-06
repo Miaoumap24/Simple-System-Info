@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Lixiod Technologies
+
 import platform
 import sys
 import tkinter as tk
